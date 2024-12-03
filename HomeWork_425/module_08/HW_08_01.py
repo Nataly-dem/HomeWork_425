@@ -1,4 +1,4 @@
-"задание 8.1.1"
+"""задание 8.1.1"""
 class Vehicle:
 
     def __init__(self, name, mileage ):
