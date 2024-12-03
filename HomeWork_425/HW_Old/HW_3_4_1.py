@@ -60,5 +60,3 @@ while True:
 
 for i in range(len(user_list)):
     print(user_list[i])
-
-
